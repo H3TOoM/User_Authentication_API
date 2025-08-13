@@ -1,8 +1,9 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "AuthTrainning",
-    "version": "1.0"
+    "title": "Authencation API",
+    "description": "API for Authentication Training",
+    "version": "v1"
   },
   "paths": {
     "/api/Account/Register": {
@@ -176,6 +177,19 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "Please enter a valid token",
+        "name": "Authorization",
+        "in": "header"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }

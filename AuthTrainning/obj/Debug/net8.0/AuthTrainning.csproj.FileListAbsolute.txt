@@ -150,3 +150,4 @@ D:\Web API Projects\AuthTrainning\AuthTrainning\obj\Debug\net8.0\refint\AuthTrai
 D:\Web API Projects\AuthTrainning\AuthTrainning\obj\Debug\net8.0\AuthTrainning.pdb
 D:\Web API Projects\AuthTrainning\AuthTrainning\obj\Debug\net8.0\AuthTrainning.genruntimeconfig.cache
 D:\Web API Projects\AuthTrainning\AuthTrainning\obj\Debug\net8.0\ref\AuthTrainning.dll
+D:\Web API Projects\AuthTrainning\AuthTrainning\obj\Debug\net8.0\AuthTrainning.sourcelink.json
